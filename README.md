@@ -1,7 +1,7 @@
 # Craft.js
 KubeJS Helper Script - a Craft.zs Equivelant
 
-![Example of what this script can do](./assets/output.png)
+![Example of what this script can do](./repo_assets/output.png)
 
 ## Description
 
@@ -19,7 +19,7 @@ Copy the Craft.js into your instances `./kubejs/server_scripts/` and run `/reloa
 
 Recipes are build inside a 4x3 Grid inside your Container.
 
-![Example of a Container](./assets/container.png)
+![Example of a Container](./repo_assets/container.png)
 
 The 3x3 Grid on the left is your input grid
 the 3 slots on the right are for:
@@ -46,23 +46,23 @@ Removal Items are easily changable in the Script
 
 After you have laid out your Recipes, crouch and right click your Container with your triggerItem (default: `minecraft:nether_star`)
 
-![Image of the Chat Output](./assets/output.png)
+![Image of the Chat Output](./repo_assets/output.png)
 
 Here, you can click every [#], to copy a single Recipe, or click the [A] to copy all recipes
 
 Afterwards, paste them in your RecipeEvent.
 
-![Image of RecipeEvent](./assets/recipe_event.png)
+![Image of RecipeEvent](./repo_assets/recipe_event.png)
 
 ## Additional Information
 
 This Script works with Modded Containers aswell, such as IronChest and even ColossalChests.
 ColossalChests works on both the Core and the Interface.
 
-![Image of a Modded Container](./assets/diamond_chest.png)
+![Image of a Modded Container](./repo_assets/diamond_chest.png)
 
 If the Container has a bigger Width, you need to hold n-amount of triggerItems in your hand
-![Image of Modded Trigger](./assets/modded_output.png)
+![Image of Modded Trigger](./repo_assets/modded_output.png)
 
 
 ## Big Thanks to:
