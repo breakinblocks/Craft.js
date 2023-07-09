@@ -57,7 +57,8 @@ Afterwards, paste them in your RecipeEvent.
 ## Additional Information
 
 This Script works with Modded Containers aswell, such as IronChest and even ColossalChests.
-ColossalChests works on both the Core and the Interface
+ColossalChests works on both the Core and the Interface.
+
 ![Image of a Modded Container](./assets/diamond_chest.png)
 
 If the Container has a bigger Width, you need to hold n-amount of triggerItems in your hand
