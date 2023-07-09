@@ -2,7 +2,7 @@
     "author": "TheonlyTazz",
     "description": "KubeJS Helper Script - a Craft.zs Equivelant",
     
-    "versions": [9],
+    "versions": [8],
     "modloaders": ["fabric", "forge"],
     "dependencies": [],
     "incompatibilities": []
