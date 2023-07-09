@@ -1,7 +1,7 @@
 # Craft.js
 KubeJS Helper Script - a Craft.zs Equivelant
 
-![Example of what this script can do](./assets/text_output.png)
+![Example of what this script can do](./assets/output.png)
 
 ## Description
 
